@@ -1,2 +1,2 @@
 # git-fundamentals
-This for practice
+This is for practice
